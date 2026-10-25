@@ -61,7 +61,7 @@ I'm currently building my skills in **ASP.NET, Laravel, Docker, SQL, and Linux**
 ## 🤝 Connect With Me
 
 - 💼 **LinkedIn:** [Omar's LinkedIn](https://www.linkedin.com/in/omar-mousa-b2878b301/)
-- 📧 **Email:** omarmousa2000.om@gmail.com
+
 
 ---
 
